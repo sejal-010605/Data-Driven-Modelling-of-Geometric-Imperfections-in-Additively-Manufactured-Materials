@@ -19,7 +19,7 @@ The generated numerical simulation data were subsequently used for **machine lea
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The major objectives of this research were:
 
