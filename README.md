@@ -1,7 +1,7 @@
 # Automated Geometric Imperfection Modelling and Nonlinear Analysis of Circular Hollow Sections (CHS)
 
 
-** Research Internship under the guidance of Dr. Meng Xin, National University of Singapore (NUS), Singapore**
+## Research Internship under the guidance of Dr. Meng Xin, National University of Singapore (NUS), Singapore
 
 ---
 
